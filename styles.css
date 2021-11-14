@@ -1,0 +1,44 @@
+
+body {
+  background-color: #564A4A;
+}
+
+/* Heading Section */
+h1 {
+  color: #4AA96C;
+  text-align: center;
+  font-size: 6rem;
+  font-family: 'Permanent Marker', cursive;
+
+}
+
+
+/* Body Section */
+h2 {
+  color: #4AA96C;
+  font-size: 1.5rem;
+  font-family: 'Yuji Boku', serif;
+}
+
+.center {
+  text-align: center;
+}
+
+.dice-one {
+  display: inline-block;
+  color: red;
+  margin: 2rem;
+}
+
+.dice-two {
+  display: inline-block;
+  color: red;
+  margin: 2rem;
+}
+
+
+/* Footer Section */
+h3 {
+  color: #EDFFEC;
+  text-align: center;
+}
